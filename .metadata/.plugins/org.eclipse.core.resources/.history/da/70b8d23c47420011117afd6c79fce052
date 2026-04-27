@@ -5,11 +5,11 @@ public class Vowelspresent {
 	String s = "Learning";
 	//How many vowel characters present in the given string
 	
-	String v = "aeiou";
+	String vowels = "aeiou";
 	int count = 0;
 	
 	for (char c: s.toCharArray()) {
-		if (v.contains(String.valueOf(c))) {
+		if (vowels.contains(String.valueOf(c))) {
 			 	count ++;
 		}
 	}
