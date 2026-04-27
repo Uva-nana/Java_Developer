@@ -1,0 +1,19 @@
+import java.util.Arrays;
+
+public class Anagram {
+
+	public static void main(String[] args) {
+		String s = "listen";
+		String s1= "silent";
+		
+		//Algorithm 1. checkt 
+		
+		char [] arr = s.toCharArray();
+		char [] arrs = s1.toCharArray();
+		Arrays.sort(arr);
+		Arrays.sort(arrs);
+		String sorted = new String(arr);
+		String sorted = new String(arrs);
+	}
+
+}

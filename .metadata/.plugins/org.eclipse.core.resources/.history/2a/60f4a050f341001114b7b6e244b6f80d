@@ -1,0 +1,13 @@
+
+public class Strings {
+
+	public static void main(String[] args) {
+		String s = "HELLO";
+		System.out.println(s.length());
+		System.out.println(s.toUpperCase());
+		System.out.println(s.substring(3, 6));
+		System.out.println(s.charAt(2));
+	}
+
+}
+

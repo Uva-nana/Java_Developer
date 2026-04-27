@@ -1,0 +1,11 @@
+
+public class Reverseastring {
+
+	public static void main(String[] args) {
+	String name = "Bangalore";
+	String len = name.length();
+
+
+	}
+
+}

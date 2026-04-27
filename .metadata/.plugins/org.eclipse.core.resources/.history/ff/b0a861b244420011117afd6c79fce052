@@ -1,0 +1,12 @@
+
+public class Vowelspresent {
+
+	public static void main(String[] args) {
+	String s = "Learning";
+	//How many vowel characters present in the given string
+	
+	String vowels = "aeiou";
+
+	}
+
+}

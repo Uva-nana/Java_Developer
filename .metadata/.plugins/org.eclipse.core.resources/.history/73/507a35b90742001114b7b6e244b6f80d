@@ -1,0 +1,27 @@
+
+public class Strings {
+
+	public static void main(String[] args) {
+		String s = " Hello ";
+		String s1 = "Java";
+		String s2= "java";
+		System.out.println(s.length());
+		System.out.println(s.toUpperCase());
+		System.out.println(s.toLowerCase());
+		System.out.println(s.substring(3,5));
+		System.out.println(s.charAt(2));
+		System.out.println(s.contains("lo"));
+		System.out.println(s.replace("o", "p"));
+		System.out.println(s.indexOf(6));
+		System.out.println(s.trim());
+		System.out.println(s.replace(" ", ""));
+		System.out.println(s1.equals(s2));
+		System.out.println(s1.equalsIgnoreCase(s2));
+		System.out.println(s.isEmpty());
+		System.out.println(s.startsWith("H"));
+		System.out.println(s.endsWith("o));"
+				+ "
+	}
+
+}
+

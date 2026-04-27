@@ -1,0 +1,18 @@
+
+public class Reverseastring {
+
+	public static void main(String[] args) {
+	String name = "Bangalore";
+	int len = name.length();
+	int i = len-1;
+			System.out.println(i);
+			
+	for (int in = i;i>=0;i--){{
+		System.out.println(in);
+	}
+	
+
+
+	}
+
+}
