@@ -1,0 +1,5 @@
+
+public class Occurenceofcharacter {
+String s = "Programming";
+char target = 'm';
+}

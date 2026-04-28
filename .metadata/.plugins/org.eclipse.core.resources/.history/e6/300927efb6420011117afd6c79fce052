@@ -1,0 +1,10 @@
+
+public class Occurenceofcharacter {
+String s = "Programming";
+char target = 'm';
+int count =0;
+
+for (int i =0; i<length; i++) {
+	
+}
+}
