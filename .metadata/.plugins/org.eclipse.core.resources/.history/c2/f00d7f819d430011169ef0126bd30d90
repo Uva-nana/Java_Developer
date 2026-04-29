@@ -1,0 +1,22 @@
+
+public class StringBuffer {
+
+	public static void main(String[] args) {
+		java.lang.StringBuilder sb = new StringBuilder("Hey");
+		sb.append("Hello");
+		sb.append("!");
+		sb.append("Learning");
+		sb.append("Java");
+		sb.delete(0, 12);
+		sb.reverse();
+		sb.toString();
+		sb.delete(2, 3);
+		
+		
+		System.out.println(sb);
+		
+		//same for String buffer but its a thread safe and synchronized .
+
+	}
+
+}

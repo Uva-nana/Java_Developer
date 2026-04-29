@@ -1,0 +1,14 @@
+
+public class StringBuffer {
+
+	public static void main(String[] args) {
+		java.lang.StringBuilder sb = new StringBuilder("Hey");
+		sb.append("Hello");
+		sb.append("!");
+		sb.append("Learning");
+		sb.append("Java");
+		System.out.println(sb);
+
+	}
+
+}
