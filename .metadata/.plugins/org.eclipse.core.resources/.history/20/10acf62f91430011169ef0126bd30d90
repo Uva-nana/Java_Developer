@@ -14,13 +14,7 @@ public class Doubts {
 		
 		//StringPool doubts
 		String st = "Hello";
-		String sa = "Hello";
-		String sg = "Hello";
 		
-		System.out.println(st);
-		st = "Bye";
-		System.out.println(st);
-		System.out.println(sa);
 
 	}
 

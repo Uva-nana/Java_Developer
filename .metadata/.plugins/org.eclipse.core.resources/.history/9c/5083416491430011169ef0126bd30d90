@@ -20,7 +20,6 @@ public class Doubts {
 		System.out.println(st);
 		st = "Bye";
 		System.out.println(st);
-		System.out.println(sa);
 
 	}
 

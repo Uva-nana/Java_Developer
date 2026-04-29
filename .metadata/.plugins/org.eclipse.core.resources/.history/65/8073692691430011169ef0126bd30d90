@@ -11,16 +11,6 @@ public class Doubts {
 		System.out.println(uppercase);
 		System.out.println(s.toUpperCase());//new object created and prints and then go to the 
 		//garbage collector
-		
-		//StringPool doubts
-		String st = "Hello";
-		String sa = "Hello";
-		String sg = "Hello";
-		
-		System.out.println(st);
-		st = "Bye";
-		System.out.println(st);
-		System.out.println(sa);
 
 	}
 

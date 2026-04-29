@@ -18,9 +18,6 @@ public class Doubts {
 		String sg = "Hello";
 		
 		System.out.println(st);
-		st = "Bye";
-		System.out.println(st);
-		System.out.println(sa);
 
 	}
 

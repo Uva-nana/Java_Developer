@@ -17,10 +17,6 @@ public class Doubts {
 		String sa = "Hello";
 		String sg = "Hello";
 		
-		System.out.println(st);
-		st = "Bye";
-		System.out.println(st);
-		System.out.println(sa);
 
 	}
 
