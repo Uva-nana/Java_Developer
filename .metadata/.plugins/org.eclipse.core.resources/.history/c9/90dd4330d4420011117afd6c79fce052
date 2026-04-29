@@ -1,0 +1,15 @@
+
+public class Doubts {
+
+	public static void main(String[] args) {
+		String s = "Programming";
+		s.toUpperCase();
+		System.out.println(s);
+		String uppercase = s.toUpperCase();
+		System.out.println(uppercase);
+		System.out.println(s.toUpperCase());//new object created and prints and then go to the 
+		//garbage collector
+
+	}
+
+}
