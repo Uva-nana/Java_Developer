@@ -2770,3 +2770,6 @@ java.lang.Exception: Resource '/SprinbootDeveloper/pom.xml' does not exist.
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2026-04-30 11:27:34.422
 !MESSAGE Classpath changed for project: SprinbootDev
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-04-30 13:07:18.439
+!MESSAGE Classpath changed for project: CrossingHurdlesPreparation
