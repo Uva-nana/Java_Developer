@@ -1,0 +1,9 @@
+
+public class CompiletimevsruntimeConcatenation {
+
+	public static void main(String[] args) {
+		String = "Happy";
+
+	}
+
+}

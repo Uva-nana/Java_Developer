@@ -5,14 +5,7 @@ public class Arithmeticandequalscheck {
 		String s = "Hello";
 		String s1 = "Hello";
 		String s3 = s+s1;
-		String s4= "Right";
 		
-		
-		System.out.println(s==s1);
-		System.out.println(s==s);
-		
-		System.out.println(s.equals(s1));
-		System.out.println(s.equals(s4));
 
 	}
 

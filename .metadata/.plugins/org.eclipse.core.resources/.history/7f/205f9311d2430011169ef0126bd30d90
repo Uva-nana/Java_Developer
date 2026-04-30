@@ -11,7 +11,7 @@ public class Arithmeticandequalscheck {
 		System.out.println(s==s1);
 		System.out.println(s==s);
 		
-		System.out.println(s.equals(s1));
+		System.out.println(s==s1);
 		System.out.println(s.equals(s4));
 
 	}
