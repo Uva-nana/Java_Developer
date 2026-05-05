@@ -9,7 +9,7 @@ public class Intern {
        s1=s1.intern();
        System.out.println(s==s1);
        System.out.println(s==s2);
-       System.out.println(s.equals(s2));
+      System.out.println(s.equals(s2));
        System.out.println(s2.intern());
        System.out.println(s1.intern());
        System.out.println(s==s1);
